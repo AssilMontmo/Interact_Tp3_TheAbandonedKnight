@@ -1,0 +1,16 @@
+res://Scenes/bat.tscn::48175172fd84c953a2d2bdf6b9957b19::1763744927::res://.godot/exported/133200997/export-c79524ed8c74c0dd401a79e0d65e13a7-bat.scn
+res://Scenes/death_screen.tscn::2a1eeeb42f491b09397327c028fb22eb::1763744927::res://.godot/exported/133200997/export-1723bcdcd4c84eb838c396c928e9efc8-death_screen.scn
+res://Scenes/enemy_door_fin.tscn::dbb8e99bb22e5d7b9b60779a48344b53::1763744927::res://.godot/exported/133200997/export-5c80a8db0043cdc917f87299a68e1283-enemy_door_fin.scn
+res://Scenes/enemy_door_scene2.tscn::d1200585c93539a84507232ed6794cc1::1763744927::res://.godot/exported/133200997/export-91d2c740fb528d9c0efc2e797a6712c0-enemy_door_scene2.scn
+res://Scenes/enemy_door_scene.tscn::26c12f5c074dde96f4e743133d07e14a::1763744927::res://.godot/exported/133200997/export-92adc7fe740cbb80f7e4f8756b31e883-enemy_door_scene.scn
+res://Scenes/global.tscn::983c1d06812a7033d7c5c7b83dfa608e::1762977796::res://.godot/exported/133200997/export-b509c093380d05c45798f49d5227f369-global.scn
+res://Scenes/level_1.tscn::d51670ef858f3db1dfcb82bab1e12e24::1763744927::res://.godot/exported/133200997/export-f8c44e2fc21d0e732c0e469b4a42155d-level_1.scn
+res://Scenes/level_2.tscn::c97a75fa6314f6162bc0bfa909bed8d1::1763745272::res://.godot/exported/133200997/export-c0f53a09c9ebf712c1fd45a22c6e4142-level_2.scn
+res://Scenes/level_3.tscn::aab78b45e08f5de4f18f8f9436d8c64a::1762295008::res://.godot/exported/133200997/export-add36892b989e1f20ad7b86707bb4115-level_3.scn
+res://Scenes/Main_Menu.tscn::46ac5e989a118b9a0c841cf3fdca36b7::1763744927::res://.godot/exported/133200997/export-dd417b450b7d15d23d824a6512b48161-Main_Menu.scn
+res://Scenes/pause_menu_scene.tscn::696e64771003c20d0bdb6b56b377b958::1763744927::res://.godot/exported/133200997/export-e0c95929750c9e56e19941640d4bae96-pause_menu_scene.scn
+res://Scenes/player.tscn::25223a1c130abfbb947b21a9f4f5a719::1763744927::res://.godot/exported/133200997/export-1753c997600d68ab5d20ae99fddb15c6-player.scn
+res://Scenes/sign_scene.tscn::385955066a7e88f67c062e9e154c5256::1763744927::res://.godot/exported/133200997/export-f84f31ac4ed4d3bf48c9e308b5de8310-sign_scene.scn
+res://Scenes/Slime.tscn::08f6d74d1141cae0651779d8fcc27ad6::1763744927::res://.godot/exported/133200997/export-7858214276538c333833fa035dc312e1-Slime.scn
+res://Scenes/Tutorial_Level.tscn::3e0dac89e5c906c4057e42260d075df5::1763744927::res://.godot/exported/133200997/export-22dc543e2052a93e6b2910115ed7abc4-Tutorial_Level.scn
+res://Scenes/win_screen.tscn::19477e4cd59fd1c9953cabd8d5e2b31e::1763744927::res://.godot/exported/133200997/export-eb37307f6f09708a3d344f8aa01d4f81-win_screen.scn
