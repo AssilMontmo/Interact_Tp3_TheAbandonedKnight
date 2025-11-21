@@ -1,1 +1,14 @@
+res://Scenes/Main_Menu.tscn
+res://Scenes/Tutorial_Level.tscn
+res://Scenes/bat.tscn
+res://Scenes/Slime.tscn
+res://Scenes/player.tscn
+res://Scenes/enemy_door_scene.tscn
+res://Scenes/pause_menu_scene.tscn
+res://Scenes/level_1.tscn
+res://Scenes/sign_scene.tscn
+res://Scenes/enemy_door_scene2.tscn
+res://Scenes/enemy_door_fin.tscn
+res://Scenes/death_screen.tscn
+res://Scenes/win_screen.tscn
 res://Scenes/level_2.tscn

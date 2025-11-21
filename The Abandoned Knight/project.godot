@@ -19,6 +19,12 @@ config/icon="res://icon.svg"
 
 Global="*res://Scenes/global.gd"
 
+[display]
+
+window/size/resizable=false
+window/stretch/mode="viewport"
+window/stretch/aspect="expand"
+
 [importer_defaults]
 
 mp3={
@@ -79,4 +85,5 @@ interact={
 
 [rendering]
 
+viewport/hdr_2d=true
 environment/defaults/default_clear_color=Color(0.0807809, 0.168239, 0.256469, 1)
